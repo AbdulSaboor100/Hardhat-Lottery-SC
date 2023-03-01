@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/Applications/hamza/solidity/Hardhat-Lottery-SC/contracts/Raffle.sol": {
-      "lastModificationDate": 1677579692999,
-      "contentHash": "23c869861180567d3f973085f47f7543",
+      "lastModificationDate": 1677676907170,
+      "contentHash": "5eadf9c7fc806da2490bac2af8bca089",
       "sourceName": "contracts/Raffle.sol",
       "solcConfig": {
         "version": "0.8.17",

@@ -140,6 +140,10 @@ contract Raffle is VRFConsumerBaseV2, AutomationCompatibleInterface {
         return i_entranceFee;
     }
 
+    function getRecentWinner() public view returns (address) {
+        return s_recentWinner;
+    }
+
     function getPlayer(uint256 index) public view returns (address) {
         return s_players[index];
     }
